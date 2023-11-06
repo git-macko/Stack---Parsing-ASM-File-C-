@@ -1,5 +1,8 @@
 # Stack---Parsing-ASM-File-C-
 Parses an ASM File contents, using vectors.
+
+NOTE: this was one of the projects I made back in 2022 Winter Quarter in my CSS 342 Class.
+
  /* Loads a program stored in the filename location.
     Ensures that the stack is EMPTY and any previous program is REMOVED. */
     void LoadProgram(string filename);
